@@ -1,0 +1,20 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:2px solid #ccc;
+}
+
+th{
+    border:2px solid #ccc;
+    padding: 2px;
+}
+
+td{
+    border:2px solid #ccc;
+    padding: 3px;
+}

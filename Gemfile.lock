@@ -237,6 +237,7 @@ DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
   jekyll-theme-awesome
+  jekyll-theme-hacker
   minima (~> 2.0)
   tzinfo-data
 
